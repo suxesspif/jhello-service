@@ -12,3 +12,4 @@ phases:
 artifacts:
   files:
     - target/jhello-service-1.0-SNAPSHOT.jar
+    - Dockerfile
